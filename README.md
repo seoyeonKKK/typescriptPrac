@@ -1,1 +1,3 @@
 # typescriptPrac
+
+Learning typescriptPrac firstPrj
